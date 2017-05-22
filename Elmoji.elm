@@ -106,7 +106,7 @@ urlWithBase base codepts =
 
 emojiOneBaseUrl : String
 emojiOneBaseUrl =
-    "/public/emojies"
+    "/emojies/"
 
 
 twemojiBaseUrl : String
