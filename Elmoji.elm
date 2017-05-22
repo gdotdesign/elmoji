@@ -106,7 +106,7 @@ urlWithBase base codepts =
 
 emojiOneBaseUrl : String
 emojiOneBaseUrl =
-    "https://cdnjs.cloudflare.com/ajax/libs/emojione/2.2.6/assets/png/"
+    "/public/emojies"
 
 
 twemojiBaseUrl : String
